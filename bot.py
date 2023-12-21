@@ -83,3 +83,4 @@ async def stop_spam(ctx):
         await ctx.channel.send(f"{ctx.message.author.mention}You can't stop this, Your too week 🤣")
 
 bot.run(TOKEN)
+
