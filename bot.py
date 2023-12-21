@@ -5,7 +5,7 @@ import discord.ext.commands as commands
 import main as m
 
 
-TOKEN = 'MTE4NDA2Njk0MzMzMDgzMjQ1NA.Gu15Np.hKxWJFMh4I_HndflDf5klMLKP0DalCcCmZQ45E'
+TOKEN = ''
 PREFIX = '+'
 
 intents = discord.Intents.default()
